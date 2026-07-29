@@ -33,9 +33,9 @@ langs: C · Go · Rust · TypeScript · Zig · Python
 
 | Project | Stack | Tag |
 | :--- | :--- | :--- |
+| **`track`** | Rust | Systems language |
 | **`carv`** | C, Go | Compiled language |
 | **`karion_os`** | C, x86 | Bare-metal kernel |
-| **`track`** | Go, C | Process & event tracker |
 | **`ignite`** | TS, Docker | Sandboxed runtime |
 | **`gbemu`** | C, Rust | Game Boy emulator |
 | **`kiattp`** | TypeScript | Zero-dep HTTP client |
