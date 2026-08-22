@@ -16,6 +16,7 @@
 
 <img src="https://streak-stats.demolab.com?user=dev-dami&theme=dark&hide_border=true&border_radius=0&ring=3f3f46&fire=e4e4e7&currStreakLabel=e4e4e7&sideLabels=a1a1aa&dates=a1a1aa&background=12151a" width="420" alt="Streak Stats"/>
 
+
 </div>
 
 ---
@@ -45,7 +46,7 @@ langs: C · Go · Rust · TypeScript · Zig · Python
 | **`Lexon`** | TypeScript | Schema engine |
 
 ---
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/dev-dami/svg?template=graph&rank=percent&tokens=full&cost=compact)](https://tokscale.ai/u/dev-dami)
 ### Writing
 
 - **[I May Be Too Opinionated (And Unemployed)](https://www.devdamilare.tech/blog)**
