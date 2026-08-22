@@ -46,7 +46,7 @@ langs: C · Go · Rust · TypeScript · Zig · Python
 | **`Lexon`** | TypeScript | Schema engine |
 
 ---
-[![Tokscale Stats](https://tokscale.ai/api/embed/dev-dami/svg?template=graph&rank=percent&tokens=full&cost=compact)](https://tokscale.ai/u/dev-dami)
+
 ### Writing
 
 - **[I May Be Too Opinionated (And Unemployed)](https://www.devdamilare.tech/blog)**
